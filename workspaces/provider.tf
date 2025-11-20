@@ -10,7 +10,7 @@ terraform {
     bucket = "dasw76s-remote-state-19-11-2025"
     key    = "foreach"
     region = "us-east-1"
-    dynamodb_table = "devopsawscloud-locking"
+    dynamodb_table = "daws76s-locking"
   }
 }
 
